@@ -1,4 +1,7 @@
 # WHAT IS Portal.com.lb ?
+<br>
+<img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="337.5" height="731.25"></img>
+<br>
 Not an active website currently. Although the idea behind it is to have 2 apps (APKs) on the there always up-to-date. One app for the civilians and the other one for government officials.
 <br>
 The <strong>Portal.com.lb</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
@@ -19,3 +22,10 @@ Encrypting all data displayed on the Digital ID with RSA-2048 and;
 The Government app will have;
   1. NFC readability and QR code readibility. Government officials will choose the verification type.
   2. Access to private key (whether it's implemented inside the app or being received by a server) and decrypt the read public key and turn it back into data.
+<br>
+<br>
+The PORTAL has balance (as in monetary balance) used to pay your taxes, as you're supposed to pay certain fees and taxes for government services in LEBANON.
+<br>
+As for now, the balance is used to get an extract of your Registry Record, It's a PRINT button in the bottom-middle of the PORTAL app, each print will cost 1 USD.
+<br>
+The printed registry extract record should have the date of print on it. As it shouldn't be older than 3 months for the extract record to be accepted at government offices.
