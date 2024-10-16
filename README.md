@@ -2,7 +2,7 @@
 <br>
 <img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="337.5" height="731.25"></img>
 <br>
-Not an active website currently. Although the idea behind it is to have 2 apps (APKs) on the there always up-to-date. One app for the civilians and the other one for government officials.
+Not an active website currently. Although the idea behind it is to have 2 apps (APKs) on the website always up-to-date. One app for the civilians and the other one for government officials.
 <br>
 The <strong>Portal.com.lb</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
 <br>
