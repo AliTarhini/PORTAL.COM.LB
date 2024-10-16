@@ -30,3 +30,5 @@ The PORTAL has balance (as in monetary balance) used to pay your taxes, as you'r
 As for now, the balance is used to get an extract of your Registry Record, It's a PRINT button in the bottom-middle of the PORTAL app, each print will cost 1 USD.
 <br>
 The printed registry extract record should have the date of print on it. As it shouldn't be older than 3 months for the extract record to be accepted at government offices.
+<br><br><br>
+<strong>UNITY Version 2022.3.49f1</strong>
