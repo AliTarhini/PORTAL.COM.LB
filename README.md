@@ -1,6 +1,6 @@
 # WHAT IS PORTAL.COM.LB ?
 <br>
-<img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="337.5" height="731.25"></img>
+<img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="421.875" height="914.0625"></img>
 <br>
 Not an active website currently. Although the idea behind it is to have 2 apps (APKs) on the website always up-to-date. One app for the civilians and the other one for government officials.
 <br>
