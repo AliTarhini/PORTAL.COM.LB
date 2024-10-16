@@ -2,11 +2,11 @@
 <br>
 <img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="421.875" height="914.0625"></img>
 <br>
-Not an active website currently. Although the idea behind it is to have 2 apps (APKs) on the website always up-to-date. One app for the civilians and the other one for government officials.
-<br>
-The <strong>Portal.com.lb</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
+The <strong>PORTAL.COM.LB</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
 <br>
 This is <strong>NOT an official app of the government</strong>. Its an app developed by me and hopefully will be adopted by the government of the REPUBLIC OF LEBANON in the future after we introduce it to them. Its a Digital Portal where people can conclude their legal activities online without the need for a physical presence at government offices.
+The idea behind <strong>PORTAL.COM.LB</strong> is to have 2 apps (APKs) on the website always up-to-date. One app for the citizens and the other one for government officials.
+<br>
 <br>
 <br>
 'Till now I have designed a Digital ID and its' future functionality, if its to be linked to a database in the future.
