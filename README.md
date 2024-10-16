@@ -8,9 +8,10 @@ This is <strong>NOT an official app of the government</strong>. Its an app devel
 The idea behind <strong>PORTAL.COM.LB</strong> is to have 2 apps (APKs) on the website always up-to-date. One app for the citizens and the other one for government officials.
 <br>
 <br>
-<br>
 'Till now I have designed a Digital ID and its' future functionality, if its to be linked to a database in the future.
 Please note that the Arabic Support in the app works on runtime.
+<br>
+<br>
 <br>
 <strong>My future plans contain but are not limited to;</strong>
 <br>
