@@ -1,5 +1,7 @@
 # WHAT IS PORTAL.COM.LB ?
 <br>
+<strong>UNITY Version 2022.3.49f1</strong>
+<br>
 <img src="https://github.com/AliTarhini/Portal.com.lb/blob/main/Screenshot.jpg" width="421.875" height="914.0625"></img>
 <br>
 The <strong>PORTAL.COM.LB</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
@@ -31,4 +33,11 @@ As for now, the balance is used to get an extract of your Registry Record, It's 
 <br>
 The printed registry extract record should have the date of print on it. As it shouldn't be older than 3 months for the extract record to be accepted at government offices.
 <br><br><br>
-<strong>UNITY Version 2022.3.49f1</strong>
+<strong>
+Copyright © 2024 ALI TARHINI
+<br><br>
+Permission is hereby granted for individuals to contribute to this project. However, <br>
+no permission is granted for the reproduction, distribution, modification, or use of this software in any way other than for contribution purposes. <br>
+All contributions are subject to approval and may be licensed solely by the original author(s).
+<br><br></strong>
+App is open for contributions. Contact me for files and license.
