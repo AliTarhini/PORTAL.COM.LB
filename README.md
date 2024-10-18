@@ -13,7 +13,7 @@ Please note that the Arabic Support in the app works on runtime.
 <br>
 <br>
 <br>
-<strong>My future plans contain but are not limited to;</strong>
+<strong>Future plans include but are not limited to;</strong>
 <br>
 <br>
 Encrypting all data displayed on the Digital ID with RSA-2048 and;
