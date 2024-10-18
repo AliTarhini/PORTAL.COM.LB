@@ -4,7 +4,7 @@
 <br>
 The <strong>PORTAL.COM.LB</strong> project is a <strong>Digital Portal</strong> for the government services of the REPUBLIC OF LEBANON.
 <br>
-This is <strong>NOT an official app of the government</strong>. Its an app developed by me and hopefully will be adopted by the government of the REPUBLIC OF LEBANON in the future after we introduce it to them. Its a Digital Portal where people can conclude their legal activities online without the need for a physical presence at government offices.
+This is <strong>NOT an official app of the government</strong>. Its an under-development app that will be introduced to the government of the REPUBLIC OF LEBANON. Its a Digital Portal where people can conclude their legal activities online without the need for a physical presence at government offices.
 The idea behind <strong>PORTAL.COM.LB</strong> is to have 2 apps (APKs) on the website always up-to-date. One app for the citizens and the other one for government officials.
 <br>
 <br>
